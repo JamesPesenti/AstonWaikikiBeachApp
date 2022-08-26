@@ -1,5 +1,7 @@
 # AstonWaikikiBeachApp
-Aston Waikiki Hotel App
+
+
+Aston Waikiki Beach Hotel
 
 A React Native app I created to reimagine the hotel Aston Waikiki Beach's website into a cross platform mobile app. This app helps modernize the hotel's brand image and appeals to younger traveler's needs like mobile check-in, booking rooms directly through the app and an explore page for info on local activities and sights to see.
 
