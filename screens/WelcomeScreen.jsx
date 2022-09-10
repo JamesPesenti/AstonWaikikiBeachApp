@@ -25,41 +25,37 @@ function WelcomeScreen() {
             <Text style={styles.videoWaikiki}>Waikiki Beach</Text>
         </View>
         
-        <View style={styles.container}>
+      <View style={styles.container}>
         <ImageBackground 
             blurRadius={.1}
             imageStyle={{opacity: 0.1}}
             style={styles.image}
             resizeMode="cover"
-            source={{uri:"https://st.depositphotos.com/2068033/3720/v/600/depositphotos_37206469-stock-illustration-hawaiian-aloha-shirt-background.jpg"}}>
+            source={{uri:"https://st.depositphotos.com/2068033/3720/v/600/depositphotos_37206469-stock-illustration-hawaiian-aloha-shirt-background.jpg"
+          }}>
         <View style={styles.overlayView} />
           <View style={styles.modalContainer}>
                 <Text style={styles.headerText1}>Aloha</Text>
                 <Text style={styles.headerText1}>Welcome To Waikiki!</Text>
               
                   <View style={styles.card1}>
-                  <ImageBackground 
-                    imageStyle={{opacity: .1, borderRadius: 15, height: "100%", width: "100%" }}
-                    style={{
-                      width: "100%",
-                      height: "100%",
-                      borderRadius: 15,
-                      borderWidth: 1,
-                      borderColor: "black",
-                        }}
-                    resizeMode="contain"
-                    source={{uri:"https://assets.muralswallpaper.com/hi-res/TR5041NE04W.jpg"}}>
-                    <Text style={styles.descriptionText}>Located on the beautiful Diamond Head side of Kalakaua and just steps away from iconic Waikiki Beach, the Aston Waikiki Beach Hotel’s phenomenal location offers ocean facing views from 85% of its guest rooms. </Text>
+                    <ImageBackground 
+                      imageStyle={{opacity: .1, borderRadius: 15, height: "100%", width: "100%" }}
+                      style={{
+                        width: "100%",
+                        height: "100%",
+                        borderRadius: 15,
+                        borderWidth: 1,
+                        borderColor: "black",}}
+                      resizeMode="contain"
+                      source={{uri:"https://assets.muralswallpaper.com/hi-res/TR5041NE04W.jpg"}}>
+                        <Text style={styles.descriptionText}>Located on the beautiful Diamond Head side of Kalakaua and just steps away from iconic Waikiki Beach, the Aston Waikiki Beach Hotel’s phenomenal location offers ocean facing views from 85% of its guest rooms. </Text>
                     </ImageBackground>
                   </View>
-
                     <Modal1 />
                     <Modal2 />
-
-            </View>
-      
-            {/* <Button title="Press Menu button to see more" type="submit" /> */}
-            </ImageBackground>
+              </View>
+          </ImageBackground>
       </View>
     </ScrollView>
   </>

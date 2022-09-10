@@ -5,7 +5,6 @@ const roomsData = [
         type: "Three Bedroom Ocean View Suite",
         numOfBeds: "2 King Beds, 2 Double beds and sofa sleeper",
         description: "Largest suite in the hotel, overlooks Waikiki Beach and Diamond Head in connected rooms. Sleeps up to 10 guests",
-        // amenities: "Guaranteed connecting Junior Suite, Oceanfront Room and Ocean View. High floor lanai, High-Speed WiFi, Keurig® coffeemaker, Large TV, In-room safe",
         price: 500,
     },
     {

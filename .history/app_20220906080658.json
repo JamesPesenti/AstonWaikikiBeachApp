@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "Aston Waikiki Beach",
+    "slug": "AstonWaikikiBeachHotel",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "https://www.astonwaikikibeach.com/assets/images/footer-logo.png",
+    "splash": {
+      "image": "https://www.astonwaikikibeach.com/assets/images/footer-logo.png",
+      "resizeMode": "cover"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "buildNumber": "1.0.0",
+      "bundleIdentifier": "com.jimpesenti.AstonWaikikiBeach",
+      "supportsTablet": true
+    },
+    "android": {
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.jamespesenti.astonwaikikibeach"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0276eafc-cfbe-4bc5-9e67-049b2bcadde9"
+      }
+    }
+  }
+}

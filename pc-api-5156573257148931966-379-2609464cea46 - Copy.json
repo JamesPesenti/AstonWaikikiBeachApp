@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pc-api-5156573257148931966-379",
+  "private_key_id": "2609464cea46a05a94c3935af1d5f1e58070c86e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDRBiYmX5VsUDZU\nXE4YAkBH5dPISw1Pd0W88G/J8+mVbLEx10c3YcwizAS7FalHrzEWS1RCcbe6+ZD1\nsLUxRQKyWdIJm5hGGhsY8kyrhanFqMQ/yFp8kGPjRqrXRSvBZYNEnYbaEuHpA1d3\nkbL5BsiFk+r7U/aMVk79Xhaby/pNfPP3z6BfZzKeUR3hnNotK7TyEOk6U3VHMymO\ncepwEgxR+dyX9BOUY+EUyXMCPseX0ZwClsCP0sA7KJNRCE+tIDw+0UckiAydfuFC\ngz4FBsc4LyJMsDF5fYtYNPhJNR7N4NRY5EEWTMqE89fNwBds0ofFLO6kRGkjSNQa\nfcqVHYktAgMBAAECggEALqcsMalo3O2ESsz1YzdxaHq8C7rwpBlvd83EbbNiocbK\nP+EYVJyf5u5ZafZaO5U3JA45JsFh7DoSqDvCHVaVVQBmOF3BnXfrL2S5RxlEvMi/\n0Kqjw6Sonswhin22V+qT42czd436XTsxNQ9QfnOMov/SVTk20Ljc1YFAE5Lx8YQ4\nWsb/I8LzyYQaJ0nXwFc06oKRF8XKuZ5ZKi9J2/lqkNj1S4q0EbTM6vTJ6HkfETQf\nkU6RjI9TdsR93XZgeuG+E8YOUb71le6Kp0GROD3eZQG8Ouwjtq6JZ7yiQyWIBOIh\nIMVnVPa2JvRrVDATYzeVfcSRmQtFRY7j9CIth/gyUQKBgQDra+CL5RR89y+hMpcm\nRq7qGCZ1LyFXg9SQNUVZFIiQzAthikHgQng99jMktr/G7HAOpO/Om3K7fYLcd5g6\npjTxyhrMeX13TkH0meXme/KkPPeCAQt2RuiyweRvnXYphi13xIQl0VJTtXicQ8ln\ngDmMQcr/VBrGpQxU9ntqRqR8FQKBgQDjS5EZfMfIlvzhUWY0QGRtFZY1hfFqABSH\nVIc/+xLrXElurhqnqU5/7/pETA49vAe7G01pPbdkrCWVxdLKVfWyMckbj5XwrUdl\nwOlKBx8QVfxEM3NC8M6muKJISZoz2UGV6mBMF3KyJUn2JPufCgJNMbzvYZQmmIU5\nF2N4bfHmuQKBgQDXNx9nxFwegbrBGoajLyroRnuh1Rwd7R59VrW24daWyHH/EW13\nnkxeGJxYi9h1+d/XA2FW9zTDwdHHym0X8KmmAKTPGKFiV+Bjw+0v70+6ZSG/b0UT\nM2+3OxmiD8jd3RPj0XsdN2aTr+o6sJ2GSOpTFjKFiFWSE4Bai5n3Ze0ooQKBgQCV\nNza6lMBTX0wEX3vJMby8ID/MQ3KJNCRF86gWyK1S9fL/Ri0ZhHyUYObbj1KKFLa+\njt3zCSEsZhcGjCglzOjPYv+zqD+3EQqeMlb00lgCUXCbFWvFtnDz4qIm8qrY/vef\ng45UZdBWQ0Sa4wyNC/UW2GBAhr7L17UeFcyncwYrgQKBgFrPqJCOKyo19gbE4r4I\nMIC/S4EE7YjHi+uztAcO4dulkoyNOOQgNxr0QKVDCQNpnKayDOmo2r0c5I/stH4P\nR8LiLlmQw7PxQLTiLzIAb6B6pR1O7DeStZiJ+7T3vnSP+gZUJEluZCdwqVyuFC6I\nHLUfdSGv9Hx/l2qUW1I2rx06\n-----END PRIVATE KEY-----\n",
+  "client_email": "astonwaikikibeach-793@pc-api-5156573257148931966-379.iam.gserviceaccount.com",
+  "client_id": "112997746705793069616",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/astonwaikikibeach-793%40pc-api-5156573257148931966-379.iam.gserviceaccount.com"
+}

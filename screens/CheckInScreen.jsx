@@ -18,16 +18,17 @@ function CheckInScreen() {
             source={{uri: ("https://st.depositphotos.com/2068033/3720/v/600/depositphotos_37206469-stock-illustration-hawaiian-aloha-shirt-background.jpg")}}
             >
       <ScrollView>
-        <View style={styles.container}>     
-        <View style={styles.checkInCard}>
-        <Icon
-          style={{margin: 0}}
-          name="key"
-          color="white"
-          size={50}
-            />
-          {/* <Image style={{ marginTop: 0, resizeMode: "contain", borderRadius: 800, width: 200, height: 200}} source={{uri: "https://loveoahu.org/wp-content/uploads/diamond-head-1.jpg"}}/> */}
-        </View>
+          <View style={styles.container}>    
+            <Image source={{url:""}} />
+              <View style={styles.checkInCard}>
+              <Icon
+                style={{margin: 0}}
+                name="key"
+                color="white"
+                size={30}
+                  />
+                {/* <Image style={{ marginTop: 0, resizeMode: "contain", borderRadius: 800, width: 200, height: 200}} source={{uri: "https://loveoahu.org/wp-content/uploads/diamond-head-1.jpg"}}/> */}
+          </View>
           <View style={{ overflowHidden: "true", marginTop: 10, padding: 10, width: 280, borderWidth: 1, borderColor: "#78b38a", borderRadius: 15}}>
             <TouchableOpacity onPress={() => {}}>
               <Text style={{ textAlign: "center", letterSpacing: .8, fontSize: 16, fontWeight: "900", color: "#78b38a"}}>Room Key Card</Text>
@@ -63,8 +64,8 @@ const styles = StyleSheet.create({
   },
 checkInCard: {
     backgroundColor: "#78b38a",
-    height: 150,
-    width: 150,
+    height: 100,
+    width: 100,
     borderRadius: 100,
     borderWidth: 1,
     borderColor: "white",

@@ -11,14 +11,13 @@ const RoomsItem = ({ item, id }) => {
           <View style={styles.container}>
            <View style={styles.card}>
                <ScrollView horizontal={true} style={{flexDirection: "row",}}>
-               
-                <Image 
-                    key={id}
-                    style={styles.image} 
-                    source={{ uri: item.source }}
-                />
-            </ScrollView>
-            <View style={{ overflowHidden: "true", padding: 10, width: 280, borderWidth: 2, borderColor: "white", }}>
+                    <Image 
+                        key={id}
+                        style={styles.image} 
+                        source={{ uri: item.source }}
+                    />
+                </ScrollView>
+            <View style={{overflowHidden: "true", padding: 10, width: 280, borderWidth: 2, borderColor: "white", }}>
                     
                     <Text style={styles.roomText}>{item.type}</Text>
                     <Text style={styles.roomText}>{item.numOfBeds}</Text>
