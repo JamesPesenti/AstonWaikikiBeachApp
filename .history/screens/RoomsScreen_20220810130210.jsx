@@ -3,7 +3,7 @@ import { useState } from "react"
 import roomsData from "../assets/data/roomsData"
 import RoomsList from "../RoomsList"
 import Amenities from "../components/Amenities"
-import {Calendar, CalendarList, Agenda} from 'react-native-calendars';
+
 import Icon from 'react-native-vector-icons/FontAwesome';
 import { Ionicons } from "@expo/vector-icons"
 

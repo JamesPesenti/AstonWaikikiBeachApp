@@ -1,5 +1,6 @@
 
-import { Dimensions, View} from "react-native";
+import { Dimensions, View } from "react-native";
+import { ViewPropTypes } from 'deprecated-react-native-prop-types'
 import Carousel from "react-native-snap-carousel";
 import CarouselItem from "../components/CarouselItem";
 import styles from "../styles";

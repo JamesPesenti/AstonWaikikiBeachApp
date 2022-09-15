@@ -1,5 +1,5 @@
 
-import { Dimensions, View} from "react-native";
+import { Dimensions, View } from "react-native";
 import Carousel from "react-native-snap-carousel";
 import CarouselItem from "../components/CarouselItem";
 import styles from "../styles";
