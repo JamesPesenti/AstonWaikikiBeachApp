@@ -1,5 +1,5 @@
 {
-  "name": "aston-waikiki-beach-hotel",
+  "name": "astonwaikikibeachhotel",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
@@ -23,6 +23,7 @@
     "expo": "^46.0.10",
     "expo-av": "~12.0.4",
     "expo-status-bar": "~1.4.0",
+    "expo-updates": "~0.14.5",
     "firebase": "^9.6.10",
     "patch-package": "^6.4.7",
     "postinstall-postinstall": "^2.1.0",
@@ -46,7 +47,8 @@
     "react-navigation-tabs": "^2.11.2"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.9"
+    "@babel/core": "^7.12.9",
+    "babel-plugin-module-resolver": "^4.1.0"
   },
   "private": true
 }
